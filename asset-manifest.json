@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/lizing-car/static/css/main.716e69e8.css",
+    "main.css": "/lizing-car/static/css/main.7fe35ce5.css",
     "main.js": "/lizing-car/static/js/main.0bf5f0b0.js",
     "static/media/Nekst-Black.woff": "/lizing-car/static/media/Nekst-Black.f0e2921efcf1112b1749.woff",
     "static/media/Gilroy-Regular.woff": "/lizing-car/static/media/Gilroy-Regular.ebe86c0337572553acea.woff",
     "index.html": "/lizing-car/index.html",
-    "main.716e69e8.css.map": "/lizing-car/static/css/main.716e69e8.css.map",
+    "main.7fe35ce5.css.map": "/lizing-car/static/css/main.7fe35ce5.css.map",
     "main.0bf5f0b0.js.map": "/lizing-car/static/js/main.0bf5f0b0.js.map"
   },
   "entrypoints": [
-    "static/css/main.716e69e8.css",
+    "static/css/main.7fe35ce5.css",
     "static/js/main.0bf5f0b0.js"
   ]
 }
