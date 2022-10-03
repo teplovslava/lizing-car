@@ -20,7 +20,7 @@ function App() {
       setPrice(100000)
     }
     if(price>6000000){
-      setPrice(600000)
+      setPrice(6000000)
     }
     setLoading(true)
     let item = {

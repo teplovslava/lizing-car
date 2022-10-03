@@ -164,6 +164,11 @@
         padding: 14px 52px 18px 52px;
     }
   }
+  @media (max-width: 779px) {
+    .sum{
+        margin-right: 14%;
+    }
+  }
 
   @media (max-width: 756px) {
     .container{
@@ -203,9 +208,14 @@
 
 
   }
+  @media (max-width: 682px) {
+    .sum{
+        margin-right: 18%;
+        margin-bottom: 32px;
+    }
+  }
 
   @media (max-width: 576px) {
-    
     .sum{
         align-self: start;
         margin-right: 0;
@@ -258,5 +268,14 @@
       }
   }
 
- @media (max-width: 330px) {
-    .container{margin: 44px 20px 64px 20px;}}
+  @media (max-width: 350px) {
+    .count{
+        font-size: 22px;
+        line-height: 20px;
+    }
+}
+
+ @media (max-width: 320px) {
+    .container{margin: 44px 20px 64px 20px;}
+
+}
