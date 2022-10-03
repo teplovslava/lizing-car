@@ -16,8 +16,8 @@ function App() {
   
   
   const add = ()=>{
-    if(price<100000){
-      setPrice(100000)
+    if(price<1000000){
+      setPrice(1000000)
     }
     if(price>6000000){
       setPrice(6000000)
